@@ -49,4 +49,4 @@ Nexus Financial Services is fictional. This was a portfolio project, not a clien
 ## 👤 **Author**
 
 **Isaac Kasoka** · [LinkedIn](https://www.linkedin.com/in/isaackasoka/)
-[Nexus Financial services GRC Report.pdf](https://github.com/user-attachments/files/34687886/Nexus.Financial.services.GRC.Report.pdf)
+Link to Report: [Nexus Financial services GRC Report.pdf](https://github.com/user-attachments/files/34687886/Nexus.Financial.services.GRC.Report.pdf)
